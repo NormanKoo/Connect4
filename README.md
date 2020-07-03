@@ -1,0 +1,2 @@
+# Connect4
+A modified Connect4 game. This version allows configuration of the board size and the number of discs to win. PopOut function is also enabled.  During each turn, a player can either add another disc from the top or, if one has any discs of his or her own color on the bottom row, remove (or "pop out") a disc of one's own color from the bottom. Popping a disc out from the bottom drops every disc above it down one space, changing their relationship with the rest of the board and changing the possibilities for a connection. 
